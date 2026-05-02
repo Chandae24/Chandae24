@@ -1,50 +1,104 @@
 # Hi, I'm Kim 👋
 
-💻 **IT Support | Web Developer | Content Creator**
-🚀 Passionate about building modern web applications and solving real-world problems
-📍 Based in Cambodia
+💻 **IT Support Specialist | Web Developer | Content Creator**
+📍 Cambodia
+🚀 Passionate about technology, education, and digital creativity
 
 ---
 
-## 🚀 About Me
+## 🧠 Summary
 
-* 🔧 Experience in IT Support and troubleshooting
-* 🌐 Building responsive websites and applications
-* 🎨 Skilled in photo & video editing
-* 📚 Currently learning **Flutter & Backend Development**
-* 🎯 Goal: Become a **Full Stack Developer**
+Versatile and results-driven IT professional with experience as a **Computer Teacher, IT Support Specialist, and Content Creator**.
+Skilled in both **front-end and back-end development**, with a strong foundation in modern web technologies.
+
+🎯 I combine **technical expertise + creative skills** (photo/video editing, photography) to deliver high-quality digital solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Skills
 
-**Frontend**
+### 💻 Development
 
-* HTML, CSS, JavaScript
+* **Frontend:** HTML, CSS, JavaScript, React, Vue
+* **Backend:** Laravel, Spring Boot
+* **Mobile:** Flutter (Learning)
 
-**Backend**
+### 🎨 Creative
 
-* Node.js (Basic)
+* Video Editing (CapCut, Adobe Premiere Pro)
+* Graphic Design (Adobe Photoshop)
+* Photography & Content Creation
 
-**Mobile**
-
-* Flutter & Dart
-
-**Tools**
+### ⚙️ Tools
 
 * Git & GitHub
 * VS Code
-* Figma / Canva
+
+---
+
+## 💼 Professional Experience
+
+### 🏫 Dewey International School (Ochar Branch)
+
+**ICT Manager | IT Support | Content Creator | Computer Teacher**
+📅 2025 – 2026
+
+* Managed IT systems and provided technical support
+* Created digital content and handled media production
+* Taught computer skills to students
+
+---
+
+### 🏫 Narith Master IT Education Co., Ltd
+
+**Computer Teacher (Microsoft Office) | IT Support | Video Editor**
+📅 2024 – 2025
+
+* Delivered computer training courses
+* Provided IT support and troubleshooting
+* Edited educational and promotional videos
+
+---
+
+### 🏫 Baktouk Information Technology Center
+
+**Computer Teacher**
+📅 2023 – 2024
+
+* Taught fundamental computer skills
+* Assisted students with practical IT knowledge
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Information Technology**
+Build Bright University, Battambang
+📅 2023 – 2026
+
+---
+
+## 📜 Certifications
+
+* Information Technology (Year 3) – 2024
+* Adobe Photoshop CC – 2023
+
+---
+
+## 🌍 Languages
+
+* Khmer 🇰🇭
+* English 🌍
 
 ---
 
 ## 📂 Projects
 
 🔹 Portfolio Website
-🔹 Flutter Mobile App
+🔹 Flutter App (Learning Phase)
 🔹 IT Support Documentation
 
-*(I will keep updating more projects here...)*
+*(More projects coming soon...)*
 
 ---
 
@@ -54,11 +108,11 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 * 📧 Email: moeurkkimsour@gmail.com
-* 🌐 LinkedIn: https://www.linkedin.com/in/moeurk-kimsour-4553803bb 
+* 📱 Facebook / LinkedIn: https://www.linkedin.com/in/moeurk-kimsour-4553803bb
 
 ---
 
-⭐ *“Always learning, always building.”*
+⭐ **“Building skills, creating impact, and growing every day.”**
