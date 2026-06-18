@@ -1,68 +1,83 @@
-# Hi, I'm Kim 👋
+# Hi there, I'm Kim 👋
 
-💻 **IT Support Specialist | Web Developer | Content Creator**
-📍 Cambodia
-🚀 Passionate about technology, education, and digital creativity
+### 💻 Web Developer | IT Support Specialist | Content Creator
 
----
-
-## 🧠 Summary
-
-Versatile and results-driven IT professional with experience as a **Computer Teacher, IT Support Specialist, and Content Creator**.
-Skilled in both **front-end and back-end development**, with a strong foundation in modern web technologies.
-
-🎯 I combine **technical expertise + creative skills** (photo/video editing, photography) to deliver high-quality digital solutions.
+Passionate Information Technology student with experience in web development, IT support, and digital content creation. I enjoy building responsive web applications, solving technical challenges, and learning new technologies. My goal is to create efficient, user-friendly solutions that make a real impact.
 
 ---
 
-## 🛠️ Tech Skills
+## 🚀 About Me
 
-### 💻 Development
+* 🎓 Bachelor of Information Technology Student
+* 🌱 Currently learning Flutter and advanced web technologies
+* 💡 Interested in Full-Stack Development
+* 📍 Based in Cambodia
+* 📸 Photography & Digital Content Creation Enthusiast
 
-* **Frontend:** HTML, CSS, JavaScript, React, Vue
-* **Backend:** Laravel, Spring Boot
-* **Mobile:** Flutter (Learning)
+---
 
-### 🎨 Creative
+## 🛠️ Tech Stack
 
-* Video Editing (CapCut, Adobe Premiere Pro)
-* Graphic Design (Adobe Photoshop)
-* Photography & Content Creation
+### Frontend
 
-### ⚙️ Tools
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* Vue.js
+* Tailwind CSS
+* Bootstrap
+
+### Backend
+
+* PHP
+* Laravel
+* Java
+* Spring Boot
+* MySQL
+
+### Tools & Technologies
 
 * Git & GitHub
 * VS Code
+* XAMPP
+* REST APIs
+* Responsive Web Design
+
+### Creative Skills
+
+* Adobe Photoshop
+* Adobe Premiere Pro
+* CapCut
+* Photography
+* Content Creation
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### 🏫 Dewey International School (Ochar Branch)
+### ICT Manager | IT Support | Content Creator
 
-**ICT Manager | IT Support | Content Creator | Computer Teacher**
-📅 2025 – 2026
+**Dewey International School (Ochar Branch)**
+📅 2025 – Present
 
-* Managed IT systems and provided technical support
-* Created digital content and handled media production
-* Taught computer skills to students
+* Managed school IT infrastructure and systems
+* Provided technical support and troubleshooting
+* Created digital content and promotional materials
+* Taught computer and technology-related subjects
 
----
+### Computer Teacher | IT Support | Video Editor
 
-### 🏫 Narith Master IT Education Co., Ltd
-
-**Computer Teacher (Microsoft Office) | IT Support | Video Editor**
+**Narith Master IT Education Co., Ltd**
 📅 2024 – 2025
 
-* Delivered computer training courses
-* Provided IT support and troubleshooting
-* Edited educational and promotional videos
+* Delivered Microsoft Office and IT training
+* Supported hardware and software troubleshooting
+* Produced educational and promotional videos
 
----
+### Computer Teacher
 
-### 🏫 Baktouk Information Technology Center
-
-**Computer Teacher**
+**Baktouk Information Technology Center**
 📅 2023 – 2024
 
 * Taught fundamental computer skills
@@ -70,9 +85,29 @@ Skilled in both **front-end and back-end development**, with a strong foundation
 
 ---
 
+## 📂 Featured Projects
+
+### 🌐 Portfolio Website
+
+Personal portfolio built with React and Tailwind CSS showcasing skills, experience, and projects.
+
+### 📦 Customer Management System
+
+A web-based system for managing customer information, records, and business operations.
+
+### 📊 Stock Management System
+
+Inventory management application for tracking products and stock levels efficiently.
+
+### 📱 Flutter Applications
+
+Learning and developing cross-platform mobile applications using Flutter.
+
+---
+
 ## 🎓 Education
 
-🎓 **Bachelor of Information Technology**
+**Bachelor of Information Technology**
 Build Bright University, Battambang
 📅 2023 – 2026
 
@@ -87,32 +122,17 @@ Build Bright University, Battambang
 
 ## 🌍 Languages
 
-* Khmer 🇰🇭
-* English 🌍
+* Khmer (Native)
+* English (Intermediate)
 
 ---
 
-## 📂 Projects
+## 📫 Connect With Me
 
-🔹 Portfolio Website
-🔹 Flutter App (Learning Phase)
-🔹 IT Support Documentation
-
-*(More projects coming soon...)*
+* 📧 Email: [moeurkkimsour@gmail.com](mailto:moeurkkimsour@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/moeurk-kimsour-4553803bb](http://www.linkedin.com/in/moeurk-kimsour-4553803bb)
+* 🌐 Portfolio: https://moeurk-kimsour.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandae24\&show_icons=true)
-
----
-
-## 📫 Contact
-
-* 📧 Email: moeurkkimsour@gmail.com
-* 📱 Facebook / LinkedIn: https://www.linkedin.com/in/moeurk-kimsour-4553803bb
-
----
-
-⭐ **“Building skills, creating impact, and growing every day.”**
+⭐ *"Building innovative solutions through technology, creativity, and continuous learning."*
