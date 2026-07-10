@@ -1,138 +1,257 @@
-# Hi there, I'm Kim 👋
+<h1 align="center">Hi 👋, I'm Kim Sour</h1>
+<h3 align="center">💻 Full-Stack Web Developer | IT Support Specialist | Content Creator</h3>
 
-### 💻 Web Developer | IT Support Specialist | Content Creator
+<p align="center">
+Passionate about building modern web applications, solving technical challenges, and creating digital experiences that make an impact.
+</p>
 
-Passionate Information Technology student with experience in web development, IT support, and digital content creation. I enjoy building responsive web applications, solving technical challenges, and learning new technologies. My goal is to create efficient, user-friendly solutions that make a real impact.
-
----
-
-## 🚀 About Me
-
-* 🎓 Bachelor of Information Technology Student
-* 🌱 Currently learning Flutter and advanced web technologies
-* 💡 Interested in Full-Stack Development
-* 📍 Based in Cambodia
-* 📸 Photography & Digital Content Creation Enthusiast
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Vue.js
-* Tailwind CSS
-* Bootstrap
-
-### Backend
-
-* PHP
-* Laravel
-* Java
-* Spring Boot
-* MySQL
-
-### Tools & Technologies
-
-* Git & GitHub
-* VS Code
-* XAMPP
-* REST APIs
-* Responsive Web Design
-
-### Creative Skills
-
-* Adobe Photoshop
-* Adobe Premiere Pro
-* CapCut
-* Photography
-* Content Creation
+<p align="center">
+  <a href="https://github.com/moeurkkimsour">
+    <img src="https://img.shields.io/github/followers/moeurkkimsour?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/moeurkkimsour">
+    <img src="https://img.shields.io/github/stars/moeurkkimsour?affiliations=OWNER&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 💼 Experience
+# 🚀 About Me
 
-### ICT Manager | IT Support | Content Creator
+🎓 Bachelor of Information Technology Student (Build Bright University)
 
+💼 ICT Manager | IT Support Specialist | Web Developer
+
+🌱 Currently learning **Flutter, Next.js, Laravel, and Spring Boot**
+
+💡 Passionate about **Full-Stack Development, UI/UX Design, and Cloud Technologies**
+
+📍 Battambang, Cambodia
+
+📷 Photography & Digital Content Creator
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Next.js
+- Vue.js
+- Tailwind CSS
+- Bootstrap
+
+## Backend
+
+- PHP
+- Laravel
+- Java
+- Spring Boot
+- MySQL
+
+## Tools
+
+- Git & GitHub
+- VS Code
+- XAMPP
+- Postman
+- REST API
+- Figma
+
+## Creative
+
+- Adobe Photoshop
+- Adobe Premiere Pro
+- CapCut
+- Canva
+- Photography
+
+---
+
+# 💼 Work Experience
+
+## ICT Manager | IT Support | Content Creator
 **Dewey International School (Ochar Branch)**
+
 📅 2025 – Present
 
-* Managed school IT infrastructure and systems
-* Provided technical support and troubleshooting
-* Created digital content and promotional materials
-* Taught computer and technology-related subjects
+- Manage IT infrastructure and network systems.
+- Provide technical support for teachers and staff.
+- Design digital promotional materials.
+- Develop multimedia content.
+- Teach Information Technology courses.
 
-### Computer Teacher | IT Support | Video Editor
+---
 
+## Computer Teacher | IT Support | Video Editor
 **Narith Master IT Education Co., Ltd**
+
 📅 2024 – 2025
 
-* Delivered Microsoft Office and IT training
-* Supported hardware and software troubleshooting
-* Produced educational and promotional videos
+- Delivered Microsoft Office and IT courses.
+- Supported hardware and software troubleshooting.
+- Produced educational videos and promotional media.
 
-### Computer Teacher
+---
 
+## Computer Teacher
 **Baktouk Information Technology Center**
+
 📅 2023 – 2024
 
-* Taught fundamental computer skills
-* Assisted students with practical IT knowledge
+- Taught Computer Fundamentals.
+- Assisted students with practical IT skills.
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
-Personal portfolio built with React and Tailwind CSS showcasing skills, experience, and projects.
+Modern responsive portfolio built using:
 
-### 📦 Customer Management System
+- React
+- Tailwind CSS
+- Framer Motion
 
-A web-based system for managing customer information, records, and business operations.
+### Features
 
-### 📊 Stock Management System
-
-Inventory management application for tracking products and stock levels efficiently.
-
-### 📱 Flutter Applications
-
-Learning and developing cross-platform mobile applications using Flutter.
+- Responsive Design
+- Dark Mode
+- Project Showcase
+- Contact Form
+- Smooth Animations
 
 ---
 
-## 🎓 Education
+## 📦 Customer Management System
+
+A PHP & MySQL web application for managing:
+
+- Customers
+- Sales
+- Reports
+- Authentication
+
+---
+
+## 📊 Stock Management System
+
+Inventory management application featuring:
+
+- Product Management
+- Stock Tracking
+- Reports
+- Dashboard
+
+---
+
+## 🎬 YouTube Clone
+
+A modern YouTube-inspired application built with:
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- ShadCN UI
+
+Features:
+
+- Responsive Layout
+- Video Cards
+- Sidebar Navigation
+- Search
+- Categories
+- Dark Mode
+
+---
+
+## ☕ Coffee Shop Website
+
+Modern coffee ordering website built with React.
+
+Features:
+
+- Menu
+- Categories
+- Cart
+- Checkout
+- Favorites
+- Responsive UI
+
+---
+
+# 🎓 Education
 
 **Bachelor of Information Technology**
-Build Bright University, Battambang
+
+🏫 Build Bright University
+
 📅 2023 – 2026
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-* Information Technology (Year 3) – 2024
-* Adobe Photoshop CC – 2023
-
----
-
-## 🌍 Languages
-
-* Khmer (Native)
-* English (Intermediate)
+- Information Technology (Year 3)
+- Adobe Photoshop CC
+- Microsoft Office Advanced
+- Web Development
 
 ---
 
-## 📫 Connect With Me
+# 🌍 Languages
 
-* 📧 Email: [moeurkkimsour@gmail.com](mailto:moeurkkimsour@gmail.com)
-* 💼 LinkedIn: [www.linkedin.com/in/moeurk-kimsour-4553803bb](http://www.linkedin.com/in/moeurk-kimsour-4553803bb)
-* 🌐 Portfolio: https://moeurk-kimsour.vercel.app/
+- 🇰🇭 Khmer (Native)
+- 🇺🇸 English (Intermediate)
 
 ---
 
-⭐ *"Building innovative solutions through technology, creativity, and continuous learning."*
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moeurkkimsour&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=moeurkkimsour&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeurkkimsour&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+moeurkkimsour@gmail.com
+
+🌐 **Portfolio**
+
+https://moeurk-kimsour.vercel.app
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/moeurk-kimsour-4553803bb
+
+🐙 **GitHub**
+
+https://github.com/moeurkkimsour
+
+---
+
+# 💬 Motto
+
+> "Building innovative solutions through technology, creativity, and continuous learning."
+
+⭐ If you like my work, consider giving my repositories a star!
