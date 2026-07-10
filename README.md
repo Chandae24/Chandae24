@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kim Sour</h1>
-<h3 align="center">💻 Full-Stack Web Developer | IT Support Specialist | Content Creator</h3>
+<h3 align="center">💻Web Developer | IT Support Specialist | Content Creator</h3>
 
 <p align="center">
 Passionate about building modern web applications, solving technical challenges, and creating digital experiences that make an impact.
