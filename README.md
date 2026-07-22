@@ -1,257 +1,154 @@
-<h1 align="center">Hi 👋, I'm Kim Sour</h1>
-<h3 align="center">💻Web Developer | IT Support Specialist | Content Creator</h3>
+<h1 align="center">Hi 👋, I'm Moeurk Kimsour</h1>
+
+<h3 align="center">
+Frontend Developer | React & Next.js Developer | Flutter Enthusiast | ICT Professional
+</h3>
 
 <p align="center">
-Passionate about building modern web applications, solving technical challenges, and creating digital experiences that make an impact.
-</p>
-
-<p align="center">
-  <a href="https://github.com/moeurkkimsour">
-    <img src="https://img.shields.io/github/followers/moeurkkimsour?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/moeurkkimsour">
-    <img src="https://img.shields.io/github/stars/moeurkkimsour?affiliations=OWNER&style=for-the-badge" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Flutter+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Bachelor of Information Technology Student (Build Bright University)
+I'm a passionate **Frontend Developer** from Cambodia 🇰🇭 with a strong interest in building modern, scalable, and responsive web applications.
 
-💼 ICT Manager | IT Support Specialist | Web Developer
+I enjoy transforming ideas into interactive digital experiences using modern JavaScript frameworks and continuously improving my skills in software development.
 
-🌱 Currently learning **Flutter, Next.js, Laravel, and Spring Boot**
-
-💡 Passionate about **Full-Stack Development, UI/UX Design, and Cloud Technologies**
-
-📍 Battambang, Cambodia
-
-📷 Photography & Digital Content Creator
-
----
-
-# 🛠 Tech Stack
-
-## Frontend
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Next.js
-- Vue.js
-- Tailwind CSS
-- Bootstrap
-
-## Backend
-
-- PHP
-- Laravel
-- Java
-- Spring Boot
-- MySQL
-
-## Tools
-
-- Git & GitHub
-- VS Code
-- XAMPP
-- Postman
-- REST API
-- Figma
-
-## Creative
-
-- Adobe Photoshop
-- Adobe Premiere Pro
-- CapCut
-- Canva
-- Photography
+- 🌱 Currently learning **Advanced React, Next.js, TypeScript & Backend Development**
+- 💻 Building Full Stack Applications
+- 🎯 Interested in UI/UX Design and Clean Architecture
+- 📱 Flutter Mobile Development
+- 🚀 Always learning new technologies
+- 📍 Phnom Penh, Cambodia
 
 ---
 
-# 💼 Work Experience
+## 🚀 Tech Stack
 
-## ICT Manager | IT Support | Content Creator
-**Dewey International School (Ochar Branch)**
+### Frontend
 
-📅 2025 – Present
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
-- Manage IT infrastructure and network systems.
-- Provide technical support for teachers and staff.
-- Design digital promotional materials.
-- Develop multimedia content.
-- Teach Information Technology courses.
+### Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
-## Computer Teacher | IT Support | Video Editor
-**Narith Master IT Education Co., Ltd**
+## 📂 Featured Projects
 
-📅 2024 – 2025
+### 🎓 KIM Online Course
 
-- Delivered Microsoft Office and IT courses.
-- Supported hardware and software troubleshooting.
-- Produced educational videos and promotional media.
-
----
-
-## Computer Teacher
-**Baktouk Information Technology Center**
-
-📅 2023 – 2024
-
-- Taught Computer Fundamentals.
-- Assisted students with practical IT skills.
-
----
-
-# 📂 Featured Projects
-
-## 🌐 Portfolio Website
-
-Modern responsive portfolio built using:
+A modern online learning platform built with:
 
 - React
-- Tailwind CSS
-- Framer Motion
-
-### Features
-
-- Responsive Design
-- Dark Mode
-- Project Showcase
-- Contact Form
-- Smooth Animations
-
----
-
-## 📦 Customer Management System
-
-A PHP & MySQL web application for managing:
-
-- Customers
-- Sales
-- Reports
-- Authentication
-
----
-
-## 📊 Stock Management System
-
-Inventory management application featuring:
-
-- Product Management
-- Stock Tracking
-- Reports
-- Dashboard
-
----
-
-## 🎬 YouTube Clone
-
-A modern YouTube-inspired application built with:
-
 - Next.js
-- TypeScript
-- Tailwind CSS
-- ShadCN UI
-
-Features:
-
-- Responsive Layout
-- Video Cards
-- Sidebar Navigation
-- Search
-- Categories
-- Dark Mode
+- Redux Toolkit
+- React Query
+- Authentication
+- Shopping Cart
+- Student Dashboard
 
 ---
 
-## ☕ Coffee Shop Website
+### 💼 Portfolio Website
 
-Modern coffee ordering website built with React.
-
-Features:
-
-- Menu
-- Categories
-- Cart
-- Checkout
-- Favorites
-- Responsive UI
+Responsive personal portfolio showcasing projects, skills, and experience.
 
 ---
 
-# 🎓 Education
+### 📱 Flutter Applications
 
-**Bachelor of Information Technology**
-
-🏫 Build Bright University
-
-📅 2023 – 2026
+Cross-platform mobile applications with modern UI and smooth user experience.
 
 ---
 
-# 📜 Certifications
-
-- Information Technology (Year 3)
-- Adobe Photoshop CC
-- Microsoft Office Advanced
-- Web Development
-
----
-
-# 🌍 Languages
-
-- 🇰🇭 Khmer (Native)
-- 🇺🇸 English (Intermediate)
-
----
-
-# 📈 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=moeurkkimsour&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moeurk-kim-sour&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=moeurkkimsour&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moeurk-kim-sour&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeurkkimsour&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Moeurk-kim-sour&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+## 🏆 GitHub Trophy
 
-📧 **Email**
+<p align="center">
 
-moeurkkimsour@gmail.com
+<img src="https://github-profile-trophy.vercel.app/?username=Moeurk-kim-sour&theme=tokyonight&row=1&column=7"/>
 
-🌐 **Portfolio**
-
-https://moeurk-kimsour.vercel.app
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/moeurk-kimsour-4553803bb
-
-🐙 **GitHub**
-
-https://github.com/moeurkkimsour
+</p>
 
 ---
 
-# 💬 Motto
+## 📈 Contribution Graph
 
-> "Building innovative solutions through technology, creativity, and continuous learning."
+<p align="center">
 
-⭐ If you like my work, consider giving my repositories a star!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moeurk-kim-sour&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 🌍 Portfolio: https://your-portfolio.com
+
+---
+
+## 💡 Quote
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+Happy Coding 🚀
+
+</p>
