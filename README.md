@@ -1,3 +1,5 @@
+<div align="justify">
+
 <h1 align="center">Hi 👋, I'm Moeurk Kimsour</h1>
 
 <h3 align="center">
@@ -8,147 +10,204 @@ Frontend Developer | React & Next.js Developer | Flutter Enthusiast | ICT Profes
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Flutter+Developer;Always+Learning+New+Technologies" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **Frontend Developer** from Cambodia 🇰🇭 with a strong interest in building modern, scalable, and responsive web applications.
-
-I enjoy transforming ideas into interactive digital experiences using modern JavaScript frameworks and continuously improving my skills in software development.
-
-- 🌱 Currently learning **Advanced React, Next.js, TypeScript & Backend Development**
-- 💻 Building Full Stack Applications
-- 🎯 Interested in UI/UX Design and Clean Architecture
-- 📱 Flutter Mobile Development
-- 🚀 Always learning new technologies
-- 📍 Phnom Penh, Cambodia
 
 ---
 
-## 🚀 Tech Stack
+# 💫 About Me
+
+```typescript
+const developer = {
+    name: "Moeurk Kimsour",
+    country: "Cambodia 🇰🇭",
+    role: "Frontend Developer",
+    languages: [
+        "JavaScript",
+        "TypeScript",
+        "Java",
+        "PHP",
+        "Dart"
+    ],
+
+    frontend: [
+        "React",
+        "Next.js",
+        "Redux Toolkit",
+        "Tailwind CSS",
+        "Bootstrap"
+    ],
+
+    backend: [
+        "Spring Boot",
+        "Node.js",
+        "Express"
+    ],
+
+    mobile: [
+        "Flutter"
+    ],
+
+    databases: [
+        "MySQL",
+        "Firebase"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Figma"
+    ],
+
+    currentlyLearning: [
+        "Next.js 16",
+        "Spring Boot",
+        "Docker",
+        "AWS"
+    ]
+}
+```
+
+---
+
+# 🚀 Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+<p>
 
-### Programming Languages
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,bootstrap,html,css"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
-### Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php"/>
+
+</p>
+
+### Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+<p>
 
----
-
-## 📂 Featured Projects
-
-### 🎓 KIM Online Course
-
-A modern online learning platform built with:
-
-- React
-- Next.js
-- Redux Toolkit
-- React Query
-- Authentication
-- Shopping Cart
-- Student Dashboard
-
----
-
-### 💼 Portfolio Website
-
-Responsive personal portfolio showcasing projects, skills, and experience.
-
----
-
-### 📱 Flutter Applications
-
-Cross-platform mobile applications with modern UI and smooth user experience.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moeurk-kim-sour&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moeurk-kim-sour&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Moeurk-kim-sour&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moeurk-kim-sour&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moeurk-kim-sour&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Moeurk-kim-sour&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moeurk-kim-sour&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Moeurk-kim-sour&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🎓 **OnlineCourse** | Modern Learning Management System | React, Next.js |
+| 🛒 **E-Commerce** | Full Stack Shopping Platform | Next.js, TypeScript |
+| 📺 **YouTube Clone** | Responsive Video Platform | React |
+| 💼 **Portfolio** | Personal Portfolio Website | React |
+| ☕ **OnlineCourseAPI** | REST API for LMS | Spring Boot |
+| 🌐 **Kimsour** | Personal Web Platform | Next.js |
+
+---
+
+# 🌟 What I'm Working On
+
+- 🚀 Full Stack Development
+- 📱 Flutter Mobile Apps
+- 🌐 Next.js 16
+- ☁️ Cloud Deployment
+- 🏗 Spring Boot REST APIs
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Moeurk-kim-sour&theme=tokyonight&row=1&column=7"/>
+<a href="mailto:moeurkkimsour@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/moeurk-kimsour">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://moeurk-kimsour.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 💻 Favorite Quote
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moeurk-kim-sour&theme=tokyo-night"/>
-
-</p>
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
 ---
 
-## 🌐 Connect with Me
+<div align="center">
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌍 Portfolio: https://your-portfolio.com
+### ⭐ Thanks for visiting my profile!
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:7F00FF&section=footer"/>
 
-## 💡 Quote
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-Happy Coding 🚀
-
-</p>
+</div>
